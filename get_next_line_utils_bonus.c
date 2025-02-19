@@ -6,14 +6,14 @@
 /*   By: elel-m-b <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/15 16:05:26 by elel-m-b          #+#    #+#             */
-/*   Updated: 2024/11/15 16:06:07 by elel-m-b         ###   ########.fr       */
+/*   Updated: 2025/02/19 10:54:00 by elel-m-b         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	ft_strlen(const char *str)
 {
